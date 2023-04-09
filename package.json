@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/substack/git-http-backend.git"
+    "url": "git://github.com/tucommenceapousser/git-http-backend.git"
   },
-  "homepage": "https://github.com/substack/git-http-backend",
+  "homepage": "https://github.com/tucommenceapousser/git-http-backend",
   "keywords": [
     "git",
     "http",
